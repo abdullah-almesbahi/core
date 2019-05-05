@@ -46,4 +46,4 @@ function invariant(condition, format, a, b, c, d, e, f) {
   }
 }
 
-module.exports = invariant;
+export default invariant;
